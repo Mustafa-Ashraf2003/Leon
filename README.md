@@ -6,7 +6,7 @@ Leon is a clean, modern, and minimal one-page agency website template, ideal for
 
 ## 📌 Live Preview
 
-You can open the `index.html` file in your browser to view the site locally.
+🌐 **Live Demo:** [Click Here to Visit the Site](https://mustafa-ashraf2003.github.io/Leon/)
 
 ---
 
