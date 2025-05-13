@@ -2,7 +2,6 @@
 
 Leon is a clean, modern, and minimal one-page agency website template, ideal for digital agencies, freelancers, and creatives looking to showcase their services and portfolio in a sleek and professional format.
 
-![Leon Homepage Preview](./preview.png)
 
 ## 📌 Live Preview
 
